@@ -1,4 +1,4 @@
-I'm @jonahh2160 — I'm a student and often using GitHub for class or personal projects.
+I'm @jonahh2160 — I am a student and often using GitHub for class or personal projects.
 
 <!---
 jonahh2160/jonahh2160 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
